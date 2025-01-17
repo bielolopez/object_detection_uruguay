@@ -153,3 +153,6 @@ while True:
 
 cv2.destroyAllWindows()
 cap.release()
+
+
+# transform to rknn for more speed fps.  This is extremly correct and excelent precision.  Work and work, training paddle ocr and yolo model, with paddle training and ultralitics.
